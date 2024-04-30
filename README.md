@@ -11,8 +11,6 @@ Fareyi kullanarak avcıyı hareket ettirin.
 Fare tıklamasıyla ateş edin ve kuşları vurun.
 Her vuruş +5 puan kazandırır.
 Oyun süresi dolunca oyun sona erer ve elde edilen skor görüntülenir.
-Oyunu Başlatma
-Oyunu başlatmak için buraya tıklayarak canlı demo üzerinden oynayabilirsiniz.
 
   Kurulum
 Oyunu çalıştırmak için herhangi bir kurulum gerektirmez. Sadece tarayıcınızda https://tgc53.serv00.net/ giderek oynamaya başlayabilirsiniz.
