@@ -1,0 +1,25 @@
+Kuş Avlama Oyunu
+
+  Açıklama:
+Bu proje  JavaScript kullanılarak geliştirilmiş 2 boyutlu basit bir tarayıcı oyunudur. Oyunda, oyuncu fare ile hareket ettirilen bir avcıyı kontrol eder ve kuşları vurarak puan kazanmaya çalışır.
+
+  Nasıl Oynanır:
+Oyuncu, fareyi kullanarak avcıyı hareket ettirir ve fare tıklamasıyla ateş eder. Oyunun amacı, belirli bir süre içinde mümkün olduğunca yüksek bir skor elde etmektir. Her vurulan kuş, oyuncuya +5 puan kazandırır.
+
+  Kurallar:
+Fareyi kullanarak avcıyı hareket ettirin.
+Fare tıklamasıyla ateş edin ve kuşları vurun.
+Her vuruş +5 puan kazandırır.
+Oyun süresi dolunca oyun sona erer ve elde edilen skor görüntülenir.
+Oyunu Başlatma
+Oyunu başlatmak için buraya tıklayarak canlı demo üzerinden oynayabilirsiniz.
+
+  Kurulum
+Oyunu çalıştırmak için herhangi bir kurulum gerektirmez. Sadece tarayıcınızda https://tgc53.serv00.net/ giderek oynamaya başlayabilirsiniz.
+
+Oyun Tanıtım Videosu : https://youtu.be/SwBcmdHUdE4
+
+Oynanış ile İlgili Görseller :https://resimlink.com/Jiwclf1Ee https://resimlink.com/l4QkOvY
+
+  Lisans
+Proje açık kaynak ve ücretsizdir. Dilediğiniz gibi düzenleyebilir, değiştirebilirsiniz. 
